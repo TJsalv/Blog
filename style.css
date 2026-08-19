@@ -8,6 +8,11 @@
     header{
         text-align: center;
         background-color: #fef8f7;
+    }  
+    .logo {
+        position: absolute;
+        left: 30px;  
+        top: 10px;
     }
     nav{
         text-align: center;
